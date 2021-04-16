@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bayron Dávila</h1>
 <h3 align="center">A dedicated Full-stack developer from Peru</h3>
 
-<p align="center"> <img src="https://media.slid.es/uploads/20063/images/5199408/front-end-developers-openings-1.gif" alt="codebit-00" /> </p>
+<p align="center"> <img src="https://media.slid.es/uploads/20063/images/5199408/front-end-developers-openings-1.gif" alt="codebit-00" width="400" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebit-00&rank=S" alt="codebit-00" /></a> </p>
 
