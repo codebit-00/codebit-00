@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://media.slid.es/uploads/20063/images/5199408/front-end-developers-openings-1.gif" alt="codebit-00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebit-00" alt="codebit-00" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebit-00&rank=S" alt="codebit-00" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bdavalle" target="blank"><img src="https://img.shields.io/twitter/follow/bdavalle?logo=twitter&style=for-the-badge" alt="codebit-00" /></a> </p>
 
