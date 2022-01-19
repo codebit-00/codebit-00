@@ -9,7 +9,7 @@
 
 - :seedling: I’m currently learning Jest.
   
-- 💬 Ask me about **Rails, React.js, JavaScript, Ruby**.
+- 💬 Ask me about **Rails, React.js, TypeScript, JavaScript, Ruby**.
 
 - 📫 How to reach me **bdavila.valle@gmail.com** or **code.ciencia@gmail.com**.
 
